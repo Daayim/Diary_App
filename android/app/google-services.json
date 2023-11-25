@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "386869463879",
+    "project_id": "mun-da-my-cool-project",
+    "storage_bucket": "mun-da-my-cool-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386869463879:android:f55412d0ddbeef9fde5a62",
+        "android_client_info": {
+          "package_name": "com.example.diary_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDisbu4KqUR10C_02-6h6hL0xlQ2wfsWcA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
